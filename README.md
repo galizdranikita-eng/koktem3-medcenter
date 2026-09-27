@@ -1,1 +1,3 @@
-# koktem3-medcenter
+# Koktem-3 MedCenter
+
+PWA-приложение «Коктем-3»: стоматология + медицинский центр.
