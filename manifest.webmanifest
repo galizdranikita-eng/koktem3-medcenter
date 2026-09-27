@@ -1,13 +1,13 @@
 {
   "name": "Коктем-3",
   "short_name": "Коктем-3",
-  "description": "Коктем-3 — стоматология және медициналық орталық / стоматология и медицинский центр",
+  "description": "Коктем-3 — красивое двуязычное приложение клиники",
   "lang": "ru",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#F3F7F6",
-  "theme_color": "#0B6A5B",
+  "background_color": "#F4F8F7",
+  "theme_color": "#0E6B5C",
   "icons": [
     {
       "src": "icon-192.png",
