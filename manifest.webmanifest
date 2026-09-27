@@ -1,14 +1,13 @@
 {
   "name": "Коктем-3",
   "short_name": "Коктем-3",
-  "description": "Стоматология и медицинский центр Коктем-3 в Костанае",
+  "description": "Коктем-3 — стоматология және медициналық орталық / стоматология и медицинский центр",
   "lang": "ru",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#F3F7F6",
   "theme_color": "#0B6A5B",
-  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "icon-192.png",
